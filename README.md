@@ -101,22 +101,29 @@ To enable the Threat Intelligence checks, you'll need a free VirusTotal API key.
 
 ## 📸 Screenshots
 
-*(Add your screenshots to the `assets/screenshots/` folder to display them here)*
-
-**Home Page & File Upload**
+### Home Page
 ![Home Page](assets/screenshots/home-page.png)
 
-**Executive Summary & Risk Score**
-![Risk Score](assets/screenshots/risk-score.png)
+### Email Details
+![Email Details](assets/screenshots/email-details.png)
 
-**Email Details & Header Analysis**
+### Executive Summary
+![Executive Summary](assets/screenshots/executive-summary.png)
+
+### Header Analysis
 ![Header Analysis](assets/screenshots/header-analysis.png)
 
-**Extracted IOCs**
-![IOC Results](assets/screenshots/ioc-results.png)
+### IOC Extraction
+![IOC Extraction](assets/screenshots/iocs.png)
 
-**VirusTotal Enrichment**
-![VirusTotal Results](assets/screenshots/virustotal-results.png)
+### Additional IOC View
+![Additional IOC View](assets/screenshots/iocs-2.png)
+
+### VirusTotal Results
+![VirusTotal Results](assets/screenshots/vt-results-1.png)
+
+### Additional VirusTotal Results
+![Additional VirusTotal Results](assets/screenshots/vt-results-2.png)
 
 ## 🔮 Future Improvements
 * Parse and analyze `.zip` and `.pdf` attachments.
